@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.arr {
+    border: 1px solid black;
+    width: 200px;
+
+}
